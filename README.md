@@ -3,6 +3,7 @@
 [Nuscenes Dataset](https://www.nuscenes.org/nuscenes)
 
 - Exploration of CNN, LSTM and transfer learning for building detection models
+- Clustering with autoencoders
 - AWS for training the models
 - Self-driving Test with CARLA
 
